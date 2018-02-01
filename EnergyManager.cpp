@@ -1,5 +1,3 @@
-
-
 #include "EnergyManager.h"
 #include "UnrealNetwork.h"
 #include "Runtime/Engine/Classes/Engine/World.h"
